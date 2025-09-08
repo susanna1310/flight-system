@@ -31,6 +31,7 @@ application {
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web'
     implementation 'com.github.prominence:openweathermap-api:2.3.0'
+    implementation 'com.sothawo:mapjfx:3.1.0'
     serverImplementation 'org.springframework.boot:spring-boot-starter-web'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     clientImplementation 'org.springframework.boot:spring-boot-starter-webflux'
