@@ -8,6 +8,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+//Implemented by Susanna Gordon
 public class Cities {
     private final List<City> data;
 

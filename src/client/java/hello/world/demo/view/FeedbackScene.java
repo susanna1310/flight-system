@@ -16,7 +16,7 @@ import javafx.scene.text.Font;
 import java.util.Optional;
 
 
-
+//Implemented by Susanna Gordon
 public class FeedbackScene extends Scene {
     private WebsiteApplication application;
     private Slider flightSlider;

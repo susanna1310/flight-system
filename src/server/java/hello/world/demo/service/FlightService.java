@@ -8,6 +8,7 @@ import java.time.LocalDateTime;
 import java.util.*;
 import java.util.stream.Collectors;
 
+//Implemented by Susanna Gordon
 @Service
 public class FlightService {
 

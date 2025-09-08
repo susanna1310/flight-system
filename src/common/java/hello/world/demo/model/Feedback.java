@@ -3,6 +3,7 @@ package hello.world.demo.model;
 import java.util.ArrayList;
 import java.util.List;
 
+//Implemented by Susanna Gordon
 public class Feedback {
     private double flight;
     private double catering;

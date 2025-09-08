@@ -17,6 +17,7 @@ import javafx.scene.layout.HBox;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 
+//Implemented by Susanna Gordon
 public class SceneSetups {
 
     public SceneSetups() {

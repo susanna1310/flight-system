@@ -1,20 +1,12 @@
 package hello.world.demo.view;
+
 import com.sothawo.mapjfx.*;
-
-
-import com.sothawo.mapjfx.app.TestApp;
-import com.sothawo.mapjfx.event.MapViewEvent;
 import hello.world.demo.WebsiteApplication;
-
 import hello.world.demo.model.Flight;
-
 import javafx.scene.Scene;
-
 import javafx.scene.layout.*;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
+//Implemented by Susanna Gordon
 public class MapScene extends Scene {
     private final WebsiteApplication application;
     private MapView mapView;

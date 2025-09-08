@@ -21,7 +21,7 @@ import javafx.scene.text.Text;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
-
+//Implemented by Susanna Gordon
 public class SafetyInstructionScene extends Scene {
     private final WebsiteApplication application;
     private final GridPane gridPane;

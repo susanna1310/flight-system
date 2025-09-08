@@ -18,6 +18,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
+//Implemented by Susanna Gordon
 public class AllFlightScene extends Scene {
     private final WebsiteApplication application;
     private final TableView<Flight> table;

@@ -16,7 +16,7 @@ import javafx.scene.text.Font;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
-
+//Implemented by Susanna Gordon (expect for WeatherCorner uses)
 public class FlightDetailsScene extends Scene {
     private final WebsiteApplication application;
     private final Flight flight;

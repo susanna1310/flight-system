@@ -4,7 +4,7 @@ package hello.world.demo.model;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-
+//Implemented by Susanna Gordon
 public class Flight {
     private String flight;
     private LocalDateTime departureDate;

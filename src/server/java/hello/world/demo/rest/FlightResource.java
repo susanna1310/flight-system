@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-
+//Implemented by Susanna Gordon
 @RestController
 public class FlightResource {
 
