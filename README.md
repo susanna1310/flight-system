@@ -1,6 +1,6 @@
 # flight-system
 # Overview
-This project is a Flight Booking System developed as part of the EIST course project. The system allows users to search for available flights, book flights, and view their bookings. The application was developed using **Java** and **JavaFX** to create a graphical user interface (GUI). The aim of the project is to simulate a basic flight reservation system where users can interact with the system to perform essential booking tasks.
+This project is a Flight Booking System developed as part of the EIST course project (2. Semstester 2022). The system allows users to search for available flights, book flights, and view their bookings. The application was developed using **Java** and **JavaFX** to create a graphical user interface (GUI). The aim of the project is to simulate a basic flight reservation system where users can interact with the system to perform essential booking tasks.
 
 # Features
 - Flight Search: Users can search for flights based on source, destination, and travel date.
